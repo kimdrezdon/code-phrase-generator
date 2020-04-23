@@ -9,4 +9,5 @@ const phrases = [
     'Sear a scallop',
     'Taste some paint',
     'Feed a goat',
+    'Pick some flowers',
 ];
